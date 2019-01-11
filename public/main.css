@@ -1,0 +1,28 @@
+body{
+    display: inline-block;
+    align-content: center;
+}
+
+#wendy {
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+    border-radius: 1.5em;
+    
+}
+
+#mcd {
+    margin: 0;
+    padding: 0;
+    background-color: yellow;
+    border-radius: 1.5em;
+}
+
+img {
+    width: 225px;
+    height: 225px;
+}
+
+p {
+    font-size: 20px;
+}
